@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+.home-page{
+	background-image: url("../img/img4.jpg");
+	/*background-color: grey;*/
+	/*color:white;*/
+}
+
+.transparent{
+	background: transparent!important;
+}
+
+.cost-span{
+	float: right;
+	font-size: 1.5em;
+	color: red;
+}
